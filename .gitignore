@@ -1,0 +1,20 @@
+# OCaml build artifacts
+*.cmo
+*.cmi
+*.cma
+*.cmx
+*.cmxa
+*.o
+*.out
+
+# OCaml toplevel history
+.ocamlinit
+
+# Backup files
+*~
+
+# Dune (якщо використовуєш)
+_build/
+
+# VSCode settings (опціонально)
+.vscode/
